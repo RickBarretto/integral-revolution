@@ -1,5 +1,7 @@
 # Integral Revolution
 
+[Portuguese](./README.pt-br.md)
+
 Welcome to my demonstration of various integration techniques for Solids of Revolution, tailored for my Calculus II class presentation.
 
 For this presentation, I utilized **Manim** to create animations that illustrate several examples.
