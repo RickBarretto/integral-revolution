@@ -64,7 +64,10 @@ class MétodoDoCilíndro(ThreeDScene):
         self.play_outro()
 
     def play_intro(self):
+        title = Text("Método do Cilíndro", font_size=36)
+        self.play(Create(title))
         self.wait(2)
+        self.remove(title)
 
     def play_outro(self):
         self.wait(2)

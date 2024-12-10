@@ -95,7 +95,10 @@ class MétodoDeDisco(ThreeDScene):
 
     def play_início(self) -> None:
         """Inicia a apresentação"""
+        title = Text("Método do Disco", font_size=36)
+        self.play(Create(title))
         self.wait(2)
+        self.remove(title)
 
     def play_mostrar_curva(self, paraboloid_curve: ParametricFunction) -> None:
         """Mostra a curva parabolóide no eixo YZ"""
