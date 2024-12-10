@@ -14,3 +14,8 @@ For this presentation, I utilized **Manim** to create animations that illustrate
 ---
 
 Please note that this repository utilizes Poetry for dependency management. Ensure you have Poetry installed to access and run it seamlessly.
+
+Observation: The presented code is in Portuguese,
+since the listeners of this presentation are Portuguese speakers. But I may translate this in a close future.
+
+**Note**: The presented code is in Portuguese, as the audience for this presentation are Portuguese speakers. However, I may translate it into English in the near future.

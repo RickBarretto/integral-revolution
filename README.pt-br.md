@@ -12,3 +12,5 @@ Para esta apresentação, utilizei **Manim** para criar animações que ilustram
 ---
 
 Por favor, note que este repositório utiliza Poetry para gestão de dependências. Certifique-se de ter o Poetry instalado para acessar e executá-lo sem problemas.
+
+**Observação**: O código apresentado está em português, pois os ouvintes desta apresentação são falantes de português. No entanto, posso traduzi-lo para inglês em um futuro próximo.
