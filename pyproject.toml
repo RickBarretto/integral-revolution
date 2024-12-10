@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "solid-revolution-volume"
+version = "0.1.0"
+description = ""
+authors = ["RickBarretto <78623871+RickBarretto@users.noreply.github.com>"]
+license = "MPL 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+manim = "^0.18.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
