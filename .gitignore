@@ -1,0 +1,3 @@
+media/
+poetry.lock
+*/**/__pycache__/
